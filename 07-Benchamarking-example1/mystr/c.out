@@ -1,0 +1,5 @@
+mode: set
+github.com/Mahadev2023/testing/07-Benchamarking-example1/mystr/main.go:5.30,7.27 2 1
+github.com/Mahadev2023/testing/07-Benchamarking-example1/mystr/main.go:7.27,11.3 2 1
+github.com/Mahadev2023/testing/07-Benchamarking-example1/mystr/main.go:12.2,12.10 1 1
+github.com/Mahadev2023/testing/07-Benchamarking-example1/mystr/main.go:15.31,17.2 1 1
